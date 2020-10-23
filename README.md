@@ -1,15 +1,23 @@
 # COMP3607-2020
 
-Tutorial material for COMP 3607 (Object Oriented Programming II)
+This repository contains lab/tutorial material for COMP 3607 (Object Oriented Programming II) for Semester 1, 2020-2021 at the University of the West Indies, St. Augustine. Note that this repository was created for code sharing convenience, and all solutions will be redacted at the end of the academic year.
 
-## Weeks 1 & 2
+## Weeks 1 & 2 (September 18th & 25th)
 
 Review of use-case, sequence and class diagrams.
 
-## Week 3
+## Week 3 (October 2nd)
 
 Practice with the [SOLID](https://medium.com/mindorks/solid-principles-explained-with-examples-79d1ce114ace) design principles (theory and code examples).
 
-## Week 4
+## Week 4 (October 9th)
 
 More practice with the SOLID design principles.
+
+## Week 5 (October 16th)
+
+No class.
+
+## Week 6 (October 23rd)
+
+Practice with the Singleton, Composite and Command design patterns.
