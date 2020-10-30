@@ -21,3 +21,7 @@ No class.
 ## Week 6 (October 23rd)
 
 Practice with the Singleton, Composite and Command design patterns.
+
+## Week 7 (October 30th)
+
+Practice with the Observer design pattern.
