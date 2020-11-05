@@ -25,3 +25,7 @@ Practice with the Singleton, Composite and Command design patterns.
 ## Week 7 (October 30th)
 
 Practice with the Observer design pattern.
+
+## Week 8 (November 6th)
+
+Practice with the Template and Strategy design patterns, as well as code smells and refactoring.
