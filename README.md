@@ -29,3 +29,11 @@ Practice with the Observer design pattern.
 ## Week 8 (November 6th)
 
 Practice with the Template and Strategy design patterns, as well as code smells and refactoring.
+
+## Week 9 (November 13th)
+
+No class.
+
+## Week 10 (November 20th)
+
+Practice with JUnit 5 testing. Check out this [link](https://code.visualstudio.com/docs/java/java-testing) for help configuring JUnit for VSCode.
