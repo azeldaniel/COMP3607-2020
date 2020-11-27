@@ -37,3 +37,7 @@ No class.
 ## Week 10 (November 20th)
 
 Practice with JUnit 5 testing. Check out this [link](https://code.visualstudio.com/docs/java/java-testing) for help configuring JUnit for VSCode.
+
+## Week 11 (November 27th)
+
+Practice with object persistence and serialization.
