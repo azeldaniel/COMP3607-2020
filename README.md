@@ -45,4 +45,4 @@ Practice with object persistence and serialization.
 
 ## Week 12 (December 4th)
 
-Group project reviews.
+Group project video reviews.
