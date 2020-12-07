@@ -1,6 +1,6 @@
 # COMP3607-2020
 
-This repository contains lab/tutorial material for COMP 3607 (Object Oriented Programming II) for Semester 1, 2020-2021 at the University of the West Indies, St. Augustine. Note that this repository was created for code sharing convenience, and all solutions may be redacted at the end of the academic year.
+This repository contains lab/tutorial material for Object Oriented Programming II at the University of the West Indies, St. Augustine. Note that this repository was created for code sharing convenience, and all solutions may be redacted at the end of the academic year in 2021.
 
 ## Weeks 1 & 2 (September 18th & 25th)
 
