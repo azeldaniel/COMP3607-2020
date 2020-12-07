@@ -1,6 +1,6 @@
 # COMP3607-2020
 
-This repository contains lab/tutorial material for COMP 3607 (Object Oriented Programming II) for Semester 1, 2020-2021 at the University of the West Indies, St. Augustine. Note that this repository was created for code sharing convenience, and all solutions will be redacted at the end of the academic year.
+This repository contains lab/tutorial material for COMP 3607 (Object Oriented Programming II) for Semester 1, 2020-2021 at the University of the West Indies, St. Augustine. Note that this repository was created for code sharing convenience, and all solutions may be redacted at the end of the academic year.
 
 ## Weeks 1 & 2 (September 18th & 25th)
 
@@ -41,3 +41,8 @@ Practice with JUnit 5 testing. Check out this [link](https://code.visualstudio.c
 ## Week 11 (November 27th)
 
 Practice with object persistence and serialization.
+
+
+## Week 12 (December 4th)
+
+Group project reviews.
