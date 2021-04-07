@@ -1,3 +1,7 @@
+*Notice: This repo will be archived on May 14th, 2021. All solutions will be removed.*
+
+---
+
 # COMP3607-2020
 
 This repository contains lab/tutorial material for Object Oriented Programming II at the University of the West Indies, St. Augustine. Note that this repository was created for code sharing convenience, and all solutions may be redacted at the end of the academic year in 2021.
